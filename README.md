@@ -6,4 +6,4 @@ This repo is compilation of various proposed legislation for EOS Mainnet.
 
  * Constitution: the highest Law
    * EOS Code: a series of codified rules broken down in specific elements for aid enforcement
-     * Chapter: a subset of theEOS Code that deals with a specific legislative issue or matter
+     * Chapter: a subset of the EOS Code that deals with a specific legislative issue or matter
