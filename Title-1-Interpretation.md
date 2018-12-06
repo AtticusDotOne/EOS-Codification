@@ -10,7 +10,13 @@ Title 1 ("Title") codifies rules for interpretation of Law.
 
 Definitions apply to terms as applied herein.
 
-**Constitution**: [EOS Constitution](Constitution.md) that is ratified by Community for chain ID `aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906`
+**Constitution**: [EOS Constitution](Constitution.md) that is ratified by Community for chain ID `aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906`.
+
+**Finding**: a final decision on either: (i) a matter of fact in a case; (ii) an issue in a case; or (iii) a case's outcome.
+
+**Interpretation**: the concretization of abstract concepts or precepts and applying said concretization onto case.
+
+**Reasoning**: to apply rules by logical construction.
 
 **Statute**: Any codified rules enacted by Community that is not Constitution.
 
