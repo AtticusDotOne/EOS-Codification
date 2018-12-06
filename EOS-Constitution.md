@@ -90,3 +90,7 @@ The principles of responsible governance applied herein include: (i) separation 
 1. Governing Documents include smart contracts that govern: (i) fiscal policy of Token; (ii) appointed arbitrators; (iii) appointed Block Producers.
 1. Governing Documents must adhere to Constitution.
 1. Governing Documents supersede enacted Laws.
+
+----------
+
+[index](README.md)
