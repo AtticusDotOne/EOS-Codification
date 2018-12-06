@@ -1,6 +1,6 @@
 # EOS Codification
 
-This repo is compilation of various proposed legislation for EOS Mainnet.
+This repo is a compilation of various proposed legislation for EOS Mainnet.
 
 ## General Structure
 
