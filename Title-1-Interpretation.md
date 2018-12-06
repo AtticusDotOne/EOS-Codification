@@ -8,7 +8,10 @@ Title 1 ("Title") codifies rules for interpretation of Law.
 
 ### Article 2. Definitions
 
-Definitions apply to terms as applied herein.
+Definitions apply to terms as applied herein and are to be interpreted in the following order:
+
+1. As defined in [Constitution](EOS-Constitution.md)
+1. As defined herein.
 
 **Constitution**: [EOS Constitution](Constitution.md) that is ratified by Community for chain ID `aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906`.
 
