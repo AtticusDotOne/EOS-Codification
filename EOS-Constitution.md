@@ -71,6 +71,7 @@ The principles of responsible governance applied herein include: (i) separation 
 ## Article IX - Violation
 
 1. The Community shall codify rules that prohibit acts that are harmful to either individual Members or to the Community.
+1. Members agree to observe codified rules as enacted by Community.
 1. Arbitrators shall apply duly enacted codified rules.
 1. Arbitrator orders that limit Member(s)' rights, as outlined in Article VIII, may only be issued: (i) in conjunction with a duly appointed Arbitrator's finding of guilt of said Member(s); or (ii) as a temporary interim measure to prevent harm to other Members.
 
