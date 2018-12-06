@@ -1,16 +1,17 @@
-# EOS Code, Title 1: Interpretation
+# Section A - Introduction
 
-## Section A - Introduction
-
-### Article 1. Purpose
+## Article 1. Purpose
 
 Title 1 ("Title") codifies rules for interpretation of Law.
 
-### Article 2. Definitions
+## Article 2. Definitions
 
 Definitions apply to terms as applied herein.
 
-## Section B - Rules of Interpretation
+**Constitution**: 
+**Statute**: Any codified rules enacted by Community that is not Constitution.
+
+# Section B - Rules of Interpretation
 
 ## Article 3. Supercedence
 
