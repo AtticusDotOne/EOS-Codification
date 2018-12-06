@@ -10,7 +10,8 @@ Title 1 ("Title") codifies rules for interpretation of Law.
 
 Definitions apply to terms as applied herein.
 
-**Constitution**: 
+**Constitution**: [EOS Constitution](Constitution.md) that is ratified by Community for chain ID `aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906`
+
 **Statute**: Any codified rules enacted by Community that is not Constitution.
 
 ## Section B - Rules of Interpretation
