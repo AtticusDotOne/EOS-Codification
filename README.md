@@ -11,3 +11,6 @@ This GitHub repository is a compilation of various proposed legislation for EOS 
      * [Title 3: Violations by Block Producers](Title-3-Violations-by-Block-Producers.md)
      * [Title 4: Violations by Arbitrators](Title-4-Violations-by-Arbitrators.md)
      * [Title 5: Violations by Members](Title-5-Violations-by-Members.md)
+   * EOS Service Catalogs:
+     * [Block Producer Service Catalog](Runbook-Block-Producer-Service-Catalog.md)
+     * [Arbitrator Service Catalog](Runbook-Arbitrator-Service-Catalog.md)
