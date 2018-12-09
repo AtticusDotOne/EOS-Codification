@@ -2,7 +2,7 @@
 
 ## Preamble
 
-We, the Members of the EOS Chain `aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906`, with its stated goal of *securing life, liberty and property*, do establish this Constitution in order to shape a thriving Community via responsible governance.
+We, the Members of the EOS chain with the ID of `aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906` ("Chain"), with its stated goal of *securing life, liberty and property*, do establish this Constitution in order to shape a thriving Community via responsible governance.
 
 The principles of responsible governance applied herein include: (i) separation of powers; (ii) accountability of governing bodies to its Members; and (iii) preservation of Member's rights.
 
@@ -24,31 +24,29 @@ The principles of responsible governance applied herein include: (i) separation 
 ## Article III - Separation of Powers
 
 1. Each governing body, as defined in this Article: (i) has limited powers; (ii) is accountable to Community.
-1. Legislative: Community is empowered to enact Laws.
+1. Legislative: Community is empowered to establish rules.
 1. Executive: Block Producers are appointed with powers to perform general governance of ongoing affairs.
 1. Judicial: Arbitrators are appointed with powers to adjucate.
 
 ## Article IV - Community
 
-1. Community is composed of Members as per Article I(3).
-1. Community's collective voice, mandate and resolution is established via referendum, as established in Article V.
-1. Community may enact Statute via majority referendum.
-1. Community shall enact no laws that abridge the rights of Members as listed in Article VIII.
-1. Community may amend Constitution or its related governing documents via a super-majority referendum.
+1. Community is composed of Members as per Article I(4).
+1. Community's collective voice, mandate and resolution is established via referenda.
+1. Community may enact rules via majority referenda.
+1. Community shall establish no rule that abridges the rights of Members as listed in Article VIII.
+1. Community may amend Constitution or its related governing documents via referenda.
 1. Community appoints Block Producer by election.
-1. Community may remove a Block Producer by: (i) unvoting, or (ii) super-majority referendum.
-1. Community may overturn an Arbitrator finding or remove an Arbitrator via a super-majority referendum.
+1. Community may remove a Block Producer by: (i) unvoting, or (ii) referenda.
+1. Community may overturn an Arbitrator finding or remove an Arbitrator via referenda.
 
 ## Article V - Referendum
 
- 1. Community may vote on any motion that is duly proposed.
- 1. A majority referendum is achieved when a properly conducted referendum result counts yays in greater number than nays.
- 1. A super-majority referendum is achieved when a properly conducted result counts yays to be at least twice in number than nays.
- 1. A referendum must meet a quorum criteria of 15% of total Token supply.
+1. Community may vote on any motion that is duly proposed via Referendum Procedure.
+1. Referendum Procedure shall be encapsulated within a contract.
 
 ## Article VI - Block Producers
 
-1. Block Producers have a responsibility to: (i) ensure that Chain stays in operation; and (ii) take reasonable care to protect Member's rights.
+1. Block Producers have the duty--in order of priority--to: (i) ensure that Chain stays in operation; (ii) perform Arbitrator orders; and (iii) to improve Chain.
 1. Block Producers are voted in by the Community.
 1. The top 21 Block Producers with most votes are selected to perform active block production of Chain.
 1. Block Producers may duly effect a Change in the Chain when a Change Proposal is approved by at least 15 out of 21 appointed Block Producers.
